@@ -1,6 +1,6 @@
 https://liubouny.github.io/
 This is PORTFOLIO WEBSITE repo. 
-It contain all website assets as well as html file. 
+It contains all website assets as well as html file. 
 
 Used tempate from :
 html5up.net | @ajlkn
