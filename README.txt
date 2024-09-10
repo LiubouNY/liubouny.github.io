@@ -7,4 +7,4 @@ Used tempate from :
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-images/website_preview.JPG
+https://github.com/LiubouNY/liubouny.github.io/images/website_preview.JPG
