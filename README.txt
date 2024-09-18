@@ -1,6 +1,6 @@
 https://liubouny.github.io/
 
-
+![Capture](https://github.com/LiubouNY/liubouny.github.io/blob/main/Portfolio_website_capture.png)
 
 This is PORTFOLIO WEBSITE repo. 
 It contains all website assets as well as html file. 
