@@ -1,6 +1,6 @@
 https://liubouny.github.io/
 
-<img src = "images/Portfolio_website_capture.JPG">
+<img src = "Portfolio_website_capture.JPG">
 
 This is PORTFOLIO WEBSITE repo. 
 It contains all website assets as well as html file. 
